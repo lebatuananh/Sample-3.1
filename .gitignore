@@ -1,0 +1,6 @@
+/.vs/
+/Application.Web/ClientApp/node_modules/
+**/bin/Debug/
+**/obj/
+**/bin/
+/Application/Logs/
